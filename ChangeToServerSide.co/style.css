@@ -1,0 +1,27 @@
+html body{
+    background-color: gray;
+}
+.GetNowButton{
+    background-size: 120%;
+    border-radius: 20px;
+    border-image: linear-gradient(purple, pink);
+    background-image: linear-gradient(purple, pink);
+    font-size: 200px;
+    top: 50%;
+    color: azure;
+    right: 59%;
+    margin: 500px;
+    margin-top: 700px;
+    transform: translate(-50%, -45%);
+    transition: color 0.4s linear;
+  
+   
+    }
+    .GetNowButton:hover {
+   color: rgba(20, 255, 40, 45);
+   color: red;
+   color: lightblue;
+   color: purple;
+   color: blue;
+
+    }
